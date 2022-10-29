@@ -19,6 +19,10 @@ target/
 *.iml
 *.ipr
 
+##docker compose volumes
+*.data
+*.m2
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
