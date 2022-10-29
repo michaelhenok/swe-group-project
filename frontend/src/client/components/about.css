@@ -1,0 +1,10 @@
+body, html {
+    height: 100%;
+}
+.bg {
+    background-image: url("https://images.pexels.com/photos/12206292/pexels-photo-12206292.jpeg?auto=compress&cs=tinysrgb&w=600");
+    height: 99vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
